@@ -22,6 +22,6 @@ int main() {
 		    imshow("Ğ§¹ûÍ¼", dst);
 	
 		     waitKey(0);
-	     return 0;
+
 
 }
